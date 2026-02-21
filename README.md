@@ -1,4 +1,4 @@
-# ColrsOS-v0.5.github.io
+# ColrsOS-v0.5
 My first os downoload here
 This os is not real this is a small test of os
 If you dont know how to test this os i say it
